@@ -162,4 +162,4 @@ terraform apply
 ## 💼 Author
 
 Hari Sharma  
-Cloud Security Enthusiast
+Cloud Security Engineer | Azure | AWS | Terraform
