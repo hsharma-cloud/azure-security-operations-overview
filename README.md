@@ -240,7 +240,6 @@ terraform apply
 
 
 
-
 ## 🧠 Lessons Learned
 
 - Terraform state management is critical  
