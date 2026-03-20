@@ -184,7 +184,57 @@ terraform apply
 ![Container Monitoring](./screenshots/secops-containerapp-monitoring.png)
 
 
+## 📸 Azure Security Operations Overview
 
+---
+
+### 🏗️ Infrastructure (Terraform)
+
+![Validate](./screenshots/01-terraform-validate-success.png)
+![Plan](./screenshots/02-terraform-plan-success.png)
+![Core](./screenshots/terraform-apply-core-infra-succeeded.png)
+![Log Analytics](./screenshots/terraform-apply-log-analytics-succeeded.png)
+![Defender](./screenshots/terraform-apply-defender-enabled-succeeded.png)
+![Detection](./screenshots/terraform-apply-detection-rule-succeeded.png)
+
+---
+
+### 🛡️ Network Security (WAF)
+
+![WAF](./screenshots/secops-waf-enabled-succeeded.png)
+
+---
+
+### 📦 Identity & Container Security
+
+![ACR RBAC](./screenshots/secops-acr-rbac-security-analyst.png)
+![Container App Creation](./screenshots/secops-containerapp-creation.png)
+![Container Monitoring](./screenshots/secops-containerapp-monitoring.png)
+
+---
+
+### 🛡️ Microsoft Defender for Cloud
+
+![Defender Plans](./screenshots/secops-defender-plans-overview.png)
+![Defender Pricing](./screenshots/secops-defender-servers-plan-pricing.png)
+
+---
+
+### 💾 Storage Security
+
+![Access Keys](./screenshots/secops-storage-access-keys.png)
+![Container](./screenshots/secops-logs-private-dev.png)
+![Data Protection](./screenshots/secops-storage-data-protection.png)
+![Encryption](./screenshots/secops-storage-encryption.png)
+![Double Encryption](./screenshots/secops-storage-double-encryption.png)
+
+---
+
+### 🔐 Key Vault
+
+![Secret](./screenshots/secops-keyvault-secret.png)
+![Network](./screenshots/secops-keyvault-network.png)
+![Rotation](./screenshots/secops-keyvault-rotation.png)
 
 
 
